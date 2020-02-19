@@ -20,5 +20,6 @@ print(num_1 != num_2)
 
 num = '100'
 print(int(num) / 2) # convert it to number
+#
 
 
